@@ -1,0 +1,24 @@
+PORTFOLIOS BROS
+
+Abra index.html no navegador para visualizar o site.
+Não precisa instalar nada. Imagens e fontes são locais.
+
+ESTRUTURA
+index.html — textos, links, seções e estrutura
+css/styles.css — layout, cores, responsividade e animações
+js/theme-init.js — tema inicial claro/escuro
+js/main.js — interações e animações
+assets/images/ — logo, ícone e imagens dos projetos
+assets/fonts/ — fontes DM Sans
+
+PARA PUBLICAR
+Envie esta pasta inteira para a hospedagem, mantendo a estrutura.
+O arquivo de entrada é index.html. Não envie apenas o HTML.
+
+CONTATOS
+WhatsApp: +55 (11) 96711-2238
+E-mail: allancazelmelo@gmail.com
+
+Contato do Miguel
+WhatsApp: +55 (11) 99277-0253
+E-mail: miguelbenevides021@gmail.com
